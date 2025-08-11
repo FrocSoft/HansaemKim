@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://frocsoft.github.io/HansaemKim/posts/test/</loc>
+    <loc>http://localhost:1313/HansaemKim/posts/test/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frocsoft.github.io/HansaemKim/</loc>
+    <loc>http://localhost:1313/HansaemKim/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frocsoft.github.io/HansaemKim/posts/</loc>
+    <loc>http://localhost:1313/HansaemKim/posts/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frocsoft.github.io/HansaemKim/categories/</loc>
+    <loc>http://localhost:1313/HansaemKim/categories/</loc>
   </url><url>
-    <loc>https://frocsoft.github.io/HansaemKim/tags/</loc>
+    <loc>http://localhost:1313/HansaemKim/tags/</loc>
   </url>
 </urlset>
