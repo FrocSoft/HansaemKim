@@ -2,16 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/HansaemKim/posts/test/</loc>
+    <loc>http://localhost:1313/HansaemKim/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/HansaemKim/</loc>
+    <loc>http://localhost:1313/HansaemKim/posts/test/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/HansaemKim/posts/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/HansaemKim/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HansaemKim/posts/test-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HansaemKim/posts/test-3/</loc>
   </url><url>
     <loc>http://localhost:1313/HansaemKim/tags/</loc>
   </url>

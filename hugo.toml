@@ -1,4 +1,18 @@
 baseURL = 'https://frocsoft.github.io/HansaemKim/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "ananke"
+title = 'Hansaem Kim'
+theme = "hugo-PaperMod-master"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
